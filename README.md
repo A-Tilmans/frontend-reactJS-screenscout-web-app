@@ -23,6 +23,8 @@ Now enter your details to request a key.
 
 ###### How to run ScreenScout?
 
+**NOTE: If you have been given a copy of this project (instead of cloning it from GitHub) skip to STEP 3.**
+
 1. In the main project directory create a new file titled '.env'
 
 
