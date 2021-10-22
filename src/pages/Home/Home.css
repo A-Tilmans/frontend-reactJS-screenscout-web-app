@@ -1,0 +1,15 @@
+h3.sign-up-text {
+    margin-top: 15px;
+}
+
+h3.sign-in-text {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+div.background-container {
+    background-image: url(../../assets/bg1.png);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
